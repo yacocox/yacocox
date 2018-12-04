@@ -2,8 +2,8 @@ interface Main2 {
 
 }
 
-public class Main {
-    public static void main(String[] args) {
+public class ddddsMain {
+    public static void main(Strisssssng[] args) {
     }
 }
 
